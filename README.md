@@ -40,12 +40,12 @@ Pythonというプログラミング言語は，そのような簡単なデー�
 
 以下の順番で進みます．詳しくは授業で説明します．
 
-1. [プログラミングの基礎](01_Introduction_to_Programming/README.md)
+1. [プログラミングの基礎](01_Introduction_to_Programming)
 1. [Pythonの開発環境](02_Environment/README.md)
-1. [Pythonの基本的な文法(1) : 表示](03_print/README.md)
-1. [Pythonの基本的な文法(2) : 条件分岐](04_if/README.md)
-1. [Pythonの基本的な文法(3) : 繰り返し](05_for/README.md)
-1. [Pythonを使ったファイルの読み書き](06_read_write/README.md)
+1. [Pythonの基本的な文法(1) : 表示](03_print)
+1. [Pythonの基本的な文法(2) : 条件分岐](04_if)
+1. [Pythonの基本的な文法(3) : 繰り返し](05_for)
+1. [Pythonを使ったファイルの読み書き](06_read_write)
 1. 統計の知識
 1. グラフの作成
 1. 総合問題
