@@ -116,4 +116,4 @@ None = 3		# None はPythonがすでに用意している名前のため使えな
 [>> `ex1.py`](ex1.py)
 
 --- 
-次： [Pythonの開発環境](../02_Environment/README.md)
+次： [Pythonの開発環境](../02_Environment)
