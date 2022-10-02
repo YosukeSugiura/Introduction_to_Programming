@@ -127,4 +127,4 @@ SyntaxError: invalid syntax
 > コードを書いているときには注意しましょう．
 
 --- 
-次： [Pythonの基本的な文法(1) : 表示](../03_print/README.md)
+次： [Pythonの基本的な文法(1) : 表示](../03_print)
