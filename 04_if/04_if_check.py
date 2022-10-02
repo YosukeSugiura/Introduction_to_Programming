@@ -1,5 +1,5 @@
 """
-IFを使った条件分岐
+ifを使った条件分岐
 """
 
 x_value = 2
@@ -19,4 +19,3 @@ else:
 
 print("条件分岐終了")
 print("xは {0}, yは {1}".format(x_value,y_value))
-print("xを小数点まで書くと {0:f} とか {0:e} となる".format(x_value))
