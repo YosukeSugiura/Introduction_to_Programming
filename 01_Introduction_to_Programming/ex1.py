@@ -6,7 +6,7 @@ x = 'Hello World!'
 y = 'It is sunny today.'
 
 z = x
-y = 10
+y = (10 * 2 - 5)/5
 
 print(x)
 print(y)
