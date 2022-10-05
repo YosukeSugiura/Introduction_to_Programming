@@ -144,3 +144,4 @@ Colaboratory には「コード共有機能」があります．
 
 --- 
 次： [Pythonの基本的な文法(1) : 表示](../03_print)
+[< 前へ](../01_Introduction_to_Programming) | [トップに戻る](../) | [次へ >](../03_print) 
