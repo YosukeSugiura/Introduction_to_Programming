@@ -143,4 +143,4 @@ Colaboratory には「コード共有機能」があります．
 5. コピーしたリンクを共有相手に送付する．
 
 --- 
-[< 前へ](../01_Introduction_to_Programming) | [トップに戻る](Introduction_to_Programming) | [次へ >](../03_print) 
+[< 前へ](../01_Introduction_to_Programming) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../03_print) 
