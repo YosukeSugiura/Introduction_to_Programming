@@ -1,4 +1,4 @@
-# Pythonの開発環境・Colaboratoryの使い方
+# 2. Pythonの開発環境・Colaboratoryの使い方
 
 ここではPythonの開発環境について説明します．
 

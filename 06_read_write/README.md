@@ -155,4 +155,4 @@ extact_values = input_data[3:10,0:2]
 > ヒント： 繰り返し処理で学んだように， `if` 文を使って「variety」の列の値が `Setosa` の行のみを取り出します．
 
 --- 
-[< 前へ](../06_read_write) | [トップに戻る](../) | [次へ >](../05_for) 
+[< 前へ](../05_for) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../07)
