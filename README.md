@@ -4,8 +4,6 @@
 
 ### 本教材の構成
 
-以下の順番で進みます．詳しくは授業で説明します．
-
 1. [プログラミングの基礎](01_Introduction_to_Programming)
 1. [Pythonの開発環境](02_Environment/README.md)
 1. [Pythonの基本的な文法(1) : 表示](03_print)
