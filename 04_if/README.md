@@ -27,7 +27,7 @@ xは 7, yは 10.4
 1. `if` ，`elif`，`else` の行の最後に `:` を入れる．
 2. `if` ，`elif`，`else` の次の行(printを含む行)の頭に空白(タブを押すとよい)を入れる．
 
-[>. `04_if_code_formatting_ans.py`](04_if_code_formatting_ans.py) 
+[>> `04_if_code_formatting_ans.py`](04_if_code_formatting_ans.py) 
 
 実行結果
 ```
