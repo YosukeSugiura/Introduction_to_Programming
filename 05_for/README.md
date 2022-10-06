@@ -47,7 +47,7 @@ for num in Numbers:			# この行は修正しないでください．
 	result = result + num
 ```
 
-[>> `05_for_exercise_ans.py`](05_for_exercise_ans.py)
+[>> `05_for_exercise_ans2.py`](05_for_exercise_ans2.py)
 
 実行結果
 ```
