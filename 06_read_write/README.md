@@ -118,8 +118,8 @@ column_values = input_data[:,3]
 # 行の範囲の指定：３行目から１０行目を取り出す．
 row_values = input_data[3:10,:]
 
-# 列の範囲の指定：はじめから２列目を取り出す．
-column_values = input_data[0:2,]
+# 列の範囲の指定：0列目から２列目を取り出す．
+column_values = input_data[:,0:2]
 
 # 行・列の範囲の指定：３行目から１０行目，０列目から２列目の範囲の値を取り出す．
 extact_values = input_data[3:10,0:2]
