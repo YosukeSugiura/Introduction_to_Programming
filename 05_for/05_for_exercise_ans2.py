@@ -3,9 +3,8 @@
 """
 Numbers = [1, 1, 2, 3, 5, 8, 13, 21, 34]
 
-# k には繰り返し回数が入る．
 result = 0
-for num in Numbers:			# この行は修正しないでください．
+for num in Numbers: # num には Numbers の要素が１つづつ出される．
 	result = result + num
 
 print(result)
