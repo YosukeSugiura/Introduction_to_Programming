@@ -29,10 +29,10 @@ def read_file(file_name):
 # 関数：ファイルを書き出す
 # 	引数1：書き込むデータ，引数2：ファイル名
 def write_file(data, output_file):
-	# ファイルの書き込みを行う処理をここに書く
-	df = pd.DataFrame(data)
-	df.to_csv(output_file, header=False, index=False)
-	return 0
+    # ファイルの書き込みを行う処理をここに書く
+    df = pd.DataFrame(data)
+    df.to_csv(output_file, header=False, index=False)
+    return 0
 
 # ファイルの読み込み
 input_data1 = read_file('fruits.csv')
