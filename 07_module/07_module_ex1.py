@@ -18,9 +18,9 @@ def write_file(data, output_file):
 	return 0
 
 # ファイルの読み込み
-input_data1 = read_file('input1.csv')
-input_data2 = read_file('input2.csv')
-input_data3 = read_file('input3.csv')
+input_data1 = read_file('fruits.csv')
+input_data2 = read_file('weather.csv')
+input_data3 = read_file('icecream.csv')
 
 # 読み込んだデータの表示
 print(input_data1)
