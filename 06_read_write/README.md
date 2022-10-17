@@ -16,7 +16,7 @@
 
 #### 解答
 
-Available soon.
+なし
 
 ### 練習問題２： 列の取り出し
 
@@ -24,7 +24,21 @@ Available soon.
 
 #### 解答
 
-Available soon.
+```Python
+"""
+練習課題： csvファイルの読み書き
+"""
+import pandas as pd
+import numpy as np
+
+# ファイルの読み込み
+input_file = 'iris.csv'	# 読み込むファイル名
+input_data = pd.read_csv(input_file)
+input_data = np.array(input_data)
+
+variety = input_data[4,:]
+print(variety)
+```
 
 ---
 ## 演習課題
@@ -36,6 +50,10 @@ Available soon.
 さらに，その取り出したデータを `output.csv` ファイルに保存しましょう．
 
 > ヒント： 繰り返し処理で学んだように， `if` 文を使って「variety」の列の値が `Setosa` の行のみを取り出します．
+
+#### 解答
+
+[>> `06_read_write_2Darray_ans.py`](06_read_write_2Darray_ans.py)
 
 --- 
 [< 前へ](../05_for) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../07_module)
