@@ -33,3 +33,6 @@ output_file2 = 'output2.csv'
 output_file3 = 'output3.csv'
 
 # ファイルの書き込み
+#write_file(input_data1, output_file1)
+#write_file(input_data2, output_file2)
+#write_file(input_data3, output_file3)
