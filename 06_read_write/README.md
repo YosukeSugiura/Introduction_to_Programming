@@ -147,7 +147,7 @@ extact_values = input_data[3:10,0:2]
 ## 演習課題
 ### 演習課題１： 特定の文字列に一致する行の取り出し
 
-コード [`06_read_write_2Darray.py`](06_read_write_csv.py) は「variety」に対応する列以外の列の値を全て取り出し，新たな配列 `output_data` に入れています．実行して確認しましょう．
+コード [`06_read_write_2Darray.py`](06_read_write_2Darray.py) は「variety」に対応する列以外の列の値を全て取り出し，新たな配列 `output_data` に入れています．実行して確認しましょう．
 
 このコードを修正し，「variety」が `Setosa` となる行の，がく片の長さと幅をすべて取り出しましょう.
 さらに，その取り出したデータを `output.csv` ファイルに保存しましょう．
