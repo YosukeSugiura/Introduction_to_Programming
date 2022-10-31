@@ -13,7 +13,7 @@ input_data = np.array(input_data)
 output_data = []
 for row in input_data:
 	if row[4] == 'Setosa':
-		output_data.append(row[0:4])
+		output_data.append(row[0:2])
 output_data = np.array(output_data) # おまじない
 
 print(output_data)
