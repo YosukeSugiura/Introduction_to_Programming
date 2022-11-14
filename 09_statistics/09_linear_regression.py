@@ -47,6 +47,8 @@ mikan_pred = model.predict(input_ploy)# 回帰分析の結果を出力
 # グラフにプロットする
 plt.plot(years, mikan)  # 実データ
 plt.plot(years, mikan_pred) # 回帰結果
+plt.xlabel('年次')
+plt.ylabel('収穫量 [t]')
 
 # R2スコア
 r2 = r2_score(mikan, mikan_pred)
