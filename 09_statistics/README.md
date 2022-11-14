@@ -169,12 +169,14 @@ mikan_pred = model.predict(input_ploy)# 回帰分析の結果を出力
 まずは `LinearRegression()` でモデルを作成して，メソッド '.fit()' でパラメータ(どのような傾き・切片の直線か？)を求めます．
 そしてメソッド '.predict()' で結果を得ます．
 
-<!--
 次に回帰分析した結果を出力します．
+```Python
 # グラフにプロットする
 plt.plot(years, mikan)  # 実データ
 plt.plot(years, mikan_pred) # 回帰結果
--->
+```
+
+
 
 
 
