@@ -129,7 +129,7 @@ med = np.median(x)
 リスト `x` の最頻値は以下のコードで計算します．
 ```Python
 uniq, freq = np.unique(x, return_counts=True) # uniq : リストの値，freq : 各出現回数，が得られる
-mode = unique[np.argmax(freq)] # freq から最も出現回数の大きい値を抜き出す．mode : 最頻値
+mode = uniq[np.argmax(freq)] # freq から最も出現回数の大きい値を抜き出す．mode : 最頻値
 ```
 
 ---
