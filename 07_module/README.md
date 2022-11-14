@@ -173,4 +173,4 @@ input_data1 = read_file('input1.csv')
 -->
 
 ---
-[< 前へ](../06_read_write) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | 次へ > 
+[< 前へ](../06_read_write) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../08_prob_plot)
