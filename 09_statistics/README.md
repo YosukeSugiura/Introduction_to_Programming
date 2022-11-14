@@ -286,19 +286,19 @@ R2スコアは以下のとおりです．
 ## 練習問題
 ### 練習問題１：線形回帰と多項式回帰
 
-コード [`rinear_regression.py`](rinear_regression.py) を実行し，線形回帰を適用したときのみかん収穫量の予測結果を確認せよ．
+コード [`09_rinear_regression.py`](09_rinear_regression.py) を実行し，線形回帰を適用したときのみかん収穫量の予測結果を確認せよ．
 またコード [`polynomial_regression.py`](rinear_regression.py)を実行し，多項式回帰を適用したときのみかん収穫量の予測結果を確認せよ．
 
 ### 練習問題２：多項式回帰の次数と過学習
 
-コード [`polynomial_regression.py`](rinear_regression.py)の多項式次数(degree)を増加させたときに，
+コード [`09_polynomial_regression.py`](09_polynomial_regression.py)の多項式次数(degree)を増加させたときに，
 R2スコアがどう変化するか，そして2023年，2030年の収穫量の予測結果がどう変化するかを確認せよ．
 
 ---
 ## 演習課題
 ### 演習課題１：様々な回帰モデル
 
-コード [`polynomial_regression.py`](rinear_regression.py)を修正し，様々なモデルを利用して回帰を行ってみましょう．
+コード [`09_polynomial_regression.py`](09_polynomial_regression.py)を修正し，様々なモデルを利用して回帰を行ってみましょう．
 下に，回帰モデルの例を示します．自身で調べてみて，活用してみましょう．
 
 - 線形回帰
