@@ -179,7 +179,7 @@ plt.plot(years, mikan_pred) # 回帰結果
 plt.xlabel('年次')
 plt.ylabel('収穫量 [t]')
 ```
-![回帰分析のグラフ](linear.png)
+![回帰分析のグラフ](linear_reg.png)
 
 ちなみに，作成したモデルがどれだけデータにマッチしているかを 
 **R2スコア** から測ることができます．
@@ -255,6 +255,8 @@ input_ploy = polynomial_features.fit_transform(years) # 入力を定める
 ```
 
 他のコードの部分は線形回帰と同じで実行しましょう．
+![回帰分析のグラフ](poly_reg.png)
+
 R2スコアは以下のとおりです．
 
 > R2 Score : 0.95
