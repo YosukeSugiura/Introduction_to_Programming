@@ -289,7 +289,7 @@ R2スコアは以下のとおりです．
 ## 練習問題
 ### 練習問題１：線形回帰と多項式回帰
 
-コード [`09_rinear_regression.py`](09_rinear_regression.py) を実行し，線形回帰を適用したときのみかん収穫量の予測結果を確認せよ．
+コード [`09_linear_regression.py`](09_linear_regression.py) を実行し，線形回帰を適用したときのみかん収穫量の予測結果を確認せよ．
 またコード [`09_polynomial_regression.py`](09_polynomial_regression.py)を実行し，多項式回帰を適用したときのみかん収穫量の予測結果を確認せよ．
 
 データは次のURLからダウンロードしてください．  
