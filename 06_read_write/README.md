@@ -139,18 +139,18 @@ extact_values = input_data[3:11,0:6]
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-保存した [`iris.csv`]([iris.csv](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv)) を Colaboratory のワークスペースに置きます．(自身のPCにファイルを保存するにはブラウザの `右クリック → 名前をつけて保存` からできます．)  
+保存した [`iris.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv) を Colaboratory のワークスペースに置きます．(自身のPCにファイルを保存するにはブラウザの `右クリック → 名前をつけて保存` からできます．)  
 その後，コード [`06_read_write_csv.py`](06_read_write_csv.py)をColabに貼り付けて実行します．
 
 ##### Colaboratory のワークスペースへのデータの設置
 1. Colaboratory 画面左の 「フォルダアイコン」 をクリックする．
-2. 出てくるファイルウィンドウに [`iris.csv`](iris.csv) をドラッグ&ドロップで設置する．
+2. 出てくるファイルウィンドウに [`iris.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv)) をドラッグ&ドロップで設置する．
 
 実行すると，データの中身を見ることができます．
 
 ### 練習問題２： 列の取り出し
 
-コード [`06_read_write_csv.py`](06_read_write_csv.py) を修正して，[`iris.csv`](iris.csv) の「variety」に対応する列の値のみを表示させましょう．どのような種があるでしょうか？
+コード [`06_read_write_csv.py`](06_read_write_csv.py) を修正して，[`iris.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv)) の「variety」に対応する列の値のみを表示させましょう．どのような種があるでしょうか？
 
 ---
 ## 演習課題
