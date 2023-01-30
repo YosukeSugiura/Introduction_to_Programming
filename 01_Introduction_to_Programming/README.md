@@ -24,4 +24,4 @@ Hello World!
 
 
 --- 
-[トップに戻る](../) | [次へ >](../02_Environment) 
+[トップに戻る](../readme.md) | [次へ >](../02_Environment) 
