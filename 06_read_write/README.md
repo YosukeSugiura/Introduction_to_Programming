@@ -27,7 +27,7 @@
 
 #### 解答
 
-Available soon.
+なし.
 
 ### 練習問題２： 列の取り出し
 
@@ -35,7 +35,22 @@ Available soon.
 
 #### 解答
 
-Available soon.
+[>> `06_read_write_csv_ans.py`](06_read_write_csv_ans.py)
+
+---
+## 演習課題
+### 演習課題１：特定の文字列に一致する行の取り出し
+
+コード [`06_read_write_2Darray.py`](06_read_write_2Darray.py) は「variety」に対応する列以外の列の値を全て取り出し，新たな配列 `output_data` に入れています．実行して確認しましょう．
+
+このコードを修正し，「variety」が `Setosa` となる行の，がく片の長さと幅をすべて取り出しましょう.
+さらに，その取り出したデータを `output.csv` ファイルに保存しましょう．
+
+> ヒント： 繰り返し処理で学んだように， `if` 文を使って「variety」の列の値が `Setosa` の行のみを取り出します．
+
+#### 解答
+
+[>> `06_read_write_2Darray_ans.py`](06_read_write_2Darray_ans.py)
 
 --- 
 [< 前へ](../05_for) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | [次へ >](../07_module)
