@@ -9,7 +9,7 @@ input_file = 'iris.csv'	# 読み込むファイル名
 input_data = pd.read_csv(input_file)
 input_data = np.array(input_data)
 
-# 「variety」以外の要素を配列output_dataに入れる．．
+# 「variety」がSetosaのときにがく片の長さ・幅を保存する．
 output_data = []
 for row in input_data:
 	if row[4] == 'Setosa':
