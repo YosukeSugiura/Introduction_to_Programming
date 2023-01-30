@@ -24,4 +24,4 @@ Hello World!
 
 
 --- 
-[トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../02_Environment) 
+[トップに戻る](../) | [次へ >](../02_Environment) 
