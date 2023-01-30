@@ -45,4 +45,4 @@ xとyの和はPineAppleです．xとzの積はPinePineです．
 ```
 
 --- 
-[< 前へ](../02_Environment) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../04_if) 
+[< 前へ](../02_Environment) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | [次へ >](../04_if) 

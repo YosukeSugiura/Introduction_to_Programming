@@ -52,4 +52,4 @@ xは奇数
 ```
 
 --- 
-[< 前へ](../03_print) | [トップに戻る](../) | [次へ >](../05_for) 
+[< 前へ](../03_print) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | [次へ >](../05_for) 

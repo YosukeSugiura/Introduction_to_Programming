@@ -38,4 +38,4 @@ R2スコアや2023年，2030年の予測消費者物価指数はどのように�
 
 
 ---
-[< 前へ](../08_prob_plot) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | 
+[< 前へ](../08_prob_plot) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | 

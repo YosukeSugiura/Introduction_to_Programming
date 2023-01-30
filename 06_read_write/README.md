@@ -38,4 +38,4 @@ Available soon.
 Available soon.
 
 --- 
-[< 前へ](../05_for) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../07_module)
+[< 前へ](../05_for) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | [次へ >](../07_module)

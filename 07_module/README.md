@@ -27,4 +27,4 @@
 [>> `07_module_def_ans.py`](07_module_def_ans.py)
 
 ---
-[< 前へ](../06_read_write) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | 次へ > 
+[< 前へ](../06_read_write) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | 次へ > 

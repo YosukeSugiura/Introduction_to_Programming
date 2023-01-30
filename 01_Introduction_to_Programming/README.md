@@ -24,4 +24,4 @@ Hello World!
 
 
 --- 
-[トップに戻る](../readme.md) | [次へ >](../02_Environment) 
+[トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | [次へ >](../02_Environment) 

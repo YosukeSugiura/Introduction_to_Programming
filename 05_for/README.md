@@ -60,4 +60,4 @@ for num in Numbers:			# この行は修正しないでください．
 ```
 
 --- 
-[< 前へ](../04_if) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../06_read_write) 
+[< 前へ](../04_if) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | [次へ >](../06_read_write) 

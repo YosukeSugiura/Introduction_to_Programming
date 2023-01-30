@@ -31,4 +31,4 @@
 320
 ```
 --- 
-[< 前へ](../01_Introduction_to_Programming) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../03_print) 
+[< 前へ](../01_Introduction_to_Programming) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | [次へ >](../03_print) 
