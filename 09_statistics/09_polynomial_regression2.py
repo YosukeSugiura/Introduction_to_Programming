@@ -29,7 +29,7 @@ input_data = pd.read_csv(input_file)
 input_data = np.array(input_data)
 
 years = input_data[:,0] # 年次
-bukka = input_data[:,1] # みかんの収穫量
+bukka = input_data[:,1] # 消費者物価指数
 
 # おまじない (配列サイズを1次元から2次元に拡張)
 years = years[:,np.newaxis]
@@ -42,7 +42,7 @@ from sklearn.preprocessing import StandardScaler
 scaler_year = StandardScaler()
 scaler_bukka = StandardScaler()
 years_std = scaler_year.fit_transform(years) # 標準化した年次
-bukka_std = scaler_bukka.fit_transform(bukka) # 標準化したみかんの収穫量
+bukka_std = scaler_bukka.fit_transform(bukka) # 標準化した消費者物価指数
 
 """
 多項式回帰：degreeで○次関数を決める．
