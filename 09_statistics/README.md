@@ -305,7 +305,12 @@ R2スコアがどう変化するか，そして2023年，2030年の収穫量の�
 ### 演習課題１：様々な回帰モデル
 
 コード [`09_polynomial_regression2.py`](09_polynomial_regression2.py)を見てみましょう．
-このコードは1946年～2020年の消費者物価指数のデータに対して多項式回帰を適用したものです．
+このコードは1946年～2020年の消費者物価指数のデータ([`bukka.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/09_statistics/bukka.csv))に対して多項式回帰を適用したものです．
+
+データは次のURLからダウンロードしてください．  
+[>> `bukka.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/09_statistics/bukka.csv)
+
+このデータには，0列目に年次が，1列目に消費者物価指数が入っています．
 
 コードを修正し，多項式次数(degree)を変更したり，様々なモデルを利用して回帰を行ってみましょう．
 R2スコアや2023年，2030年の予測消費者物価指数はどのように変化するでしょうか？
