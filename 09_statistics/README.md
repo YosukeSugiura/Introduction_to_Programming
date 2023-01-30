@@ -43,6 +43,10 @@ R2スコアや2023年，2030年の予測消費者物価指数はどのように�
 - リッジ回帰 (`sklearn.linear_model.Ridge()`)
 - ラッソ回帰 (`sklearn.linear_model.Lasso()`)
 
+#### 解答
+
+解答の参考まで．  
+[>> 消費者物価指数のモデリング.ipynb](消費者物価指数のモデリング.ipynb)
 
 ---
 [< 前へ](../08_prob_plot) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/minor) | 
