@@ -47,7 +47,7 @@ bukka_std = scaler_bukka.fit_transform(bukka) # 標準化した消費者物価�
 """
 多項式回帰：degreeで○次関数を決める．
 """
-# 年次を入力としてみかんの収穫量を予測する．
+# 年次を入力として消費者物価指数を予測する．
 polynomial_features= PolynomialFeatures(degree=2) # 2次関数(直線)を使用
 input_ploy = polynomial_features.fit_transform(years_std) # 入力を定める
 
