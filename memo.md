@@ -74,8 +74,8 @@
 
 ## 過去の学生評価フィードバック
 
-- [2022年度 第3ターム 学生からの評価](../2022_feedback/[XZ650011]AL1_プログラミング入門_T3.pdf)
-- [2022年度 第4ターム 学生からの評価](../2022_feedback/[XZ650012]AL1_プログラミング入門_T3.pdf)
+- [2022年度 第3ターム 学生からの評価](https://github.com/YosukeSugiura/Introduction_to_Programming/blob/minor_v2/2022_feedback/%5BXZ650011%5DAL1_%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80_T3.pdf)
+- [2022年度 第4ターム 学生からの評価](https://github.com/YosukeSugiura/Introduction_to_Programming/blob/minor_v2/2022_feedback/%5BXZ650012%5DAL1_%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80_T4.pdf)
 
 ## 個人的な気付き
 
